@@ -1,0 +1,4 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": { "namespace": "android_app", "package_name": "com.lwalkerg.lethea", "sha256_cert_fingerprints": ["6F:7B:72:BA:B5:FD:80:DE:CE:6D:98:81:94:87:BD:87:AC:11:E0:C2:91:D0:D5:1C:CE:FD:4F:65:DD:9E:54:ED"] }
+}]
